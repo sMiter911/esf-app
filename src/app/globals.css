@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.donation-pic {
+  width: 60%;
+}
+
+.groceries_text {
+  padding-left: 100px;
+}
+
+@media (max-width: 768px) {
+  .groceries_text {
+    padding-left: 0px;
+  }
+}

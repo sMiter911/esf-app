@@ -39,17 +39,17 @@ const Sidebar = ({
           </li>
           <li>
             <Link href="/blog" onClick={toggle}>
-              <p>Blog</p>
+              <p>Community Updates</p>
             </Link>
           </li>
           <li>
             <Link href="/donate" onClick={toggle}>
-              <p>Donate</p>
+              <p>Contribute</p>
             </Link>
           </li>
           <li>
             <Link href="/contact" onClick={toggle}>
-              <p>Contact Us</p>
+              <p>Get in Touch</p>
             </Link>
           </li>
         </ul>

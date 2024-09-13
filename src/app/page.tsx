@@ -15,10 +15,7 @@ export default function Home() {
             </h1>
             <p className="text-sm text-gray-700 sm:text-base dark:text-white">
               We are a volunteer-based international movement of all
-              sympathisers of the democratic movement in eSwatini that collects
-              all forms of financial, material and otherwise support to help
-              with humanitarian and relief efforts brought by the political
-              turmoil in eSwatini.
+              sympathisers of the democratic movement in eSwatini.
             </p>
             <div className="flex mt-8">
               <Link
